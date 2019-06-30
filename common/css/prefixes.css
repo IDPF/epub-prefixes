@@ -33,3 +33,9 @@ caption {
     text-align: left;
     font-size: 90%
 }
+
+div.warn {
+	border: 0.15em solid red;
+	padding-left: 1rem;
+	margin-bottom: 2rem;
+}
