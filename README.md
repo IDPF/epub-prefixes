@@ -1,6 +1,7 @@
 > [!WARNING]
-> **This repository is archived.** 
-> Reserved prefixes are now maintained as part of the [EPUB 3]([https://github.com](https://www.w3.org/TR/epub/#sec-reserved-prefixes)) W3C Recommendation.
+> **This repository is archived.**
+> 
+> Reserved prefixes are now maintained as part of the [EPUB 3](https://www.w3.org/TR/epub/#sec-reserved-prefixes) W3C Recommendation.
 
 # EPUB Reserved Prefixes
 
